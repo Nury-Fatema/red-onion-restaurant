@@ -1,0 +1,14 @@
+.footer-area {
+	padding-top: 55px;
+	background: #000;
+	height: 350px;
+}
+
+.footer-logo img {
+	width: 160px;
+}
+
+.footer-content {
+	display: flex;
+	justify-content: space-between;
+}
